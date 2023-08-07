@@ -1,0 +1,5 @@
+Whereas digital companies utilize technology to unlock new business opportunities, traditional organizations often still view their IT as a mere cost factor
+
+Gregor Hohpe in "The Architect Elevator — Visiting the upper floors"
+
+https://martinfowler.com/articles/architect-elevator.html
